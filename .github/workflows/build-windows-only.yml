@@ -1,5 +1,5 @@
 # Reference Video: https://www.bilibili.com/video/BV1K9WNe1E4k
-name: build
+name: build-windows-only
 on: [push, pull_request]
 jobs:
   build:
